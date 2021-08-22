@@ -1,5 +1,6 @@
 [workspace]
 
 members = [
-    "derive_getters"
+    "derive_getters",
+    "macros_example"
 ]
